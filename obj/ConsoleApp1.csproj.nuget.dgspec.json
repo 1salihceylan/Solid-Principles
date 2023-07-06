@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Sunumlar\\SolidPrinciples\\ConsoleApp1\\ConsoleApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Sunumlar\\SolidPrinciples\\ConsoleApp1\\ConsoleApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sunumlar\\SolidPrinciples\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Sunumlar\\SolidPrinciples\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\SALIH.CEYLAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Sunumlar\\SolidPrinciples\\ConsoleApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SALIH.CEYLAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\AXHQERPDEV01\\nuget": {},
+          "\\\\lcw_fileserver\\TFW\\HrNugetServer": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuredevops.lcwaikiki.com/CounterStrike/_packaging/cs_nuget/nuget/v3/index.json": {},
+          "https://azuredevops.lcwaikiki.com/CounterStrike/_packaging/pars_core_nuget/nuget/v3/index.json": {},
+          "https://azuredevops.lcwaikiki.com/HR/_packaging/HR_Packages/nuget/v3/index.json": {},
+          "https://azuredevops.lcwaikiki.com/TemaProjects/_packaging/AxaptaProjects/nuget/v3/index.json": {},
+          "https://devrepo.lcwaikiki.com/repository/Pars_Dynamics_Core_Group/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
